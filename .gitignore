@@ -1,4 +1,1 @@
-.Rproj.user/
-.Rhistory/
-data-raw/analysis_ready_expression_data/
-data-raw/analysis_ready_metadata/
+.RData/
