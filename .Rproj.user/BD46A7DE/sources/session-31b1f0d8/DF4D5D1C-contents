@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data-raw/analysis_ready_metadata/
+data-raw/analysis_ready_expression_data/
+

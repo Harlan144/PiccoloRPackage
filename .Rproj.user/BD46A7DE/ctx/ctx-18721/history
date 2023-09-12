@@ -1,0 +1,5 @@
+library(PiccoloRPackage)
+library(devtools)
+usethis::use_raw_data()
+usethis::use_data_raw()
+source("~/PiccoloRPackage/data-raw/DATASET.R")
